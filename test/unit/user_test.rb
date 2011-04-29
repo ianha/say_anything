@@ -8,4 +8,12 @@ class UserTest < ActiveSupport::TestCase
     end
   end
   
+  def test_validations
+    flunk
+  end
+  
+  def test_creation
+    flunk
+  end
+  
 end
