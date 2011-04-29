@@ -1,0 +1,4 @@
+default:
+  forum: default
+  user: default
+  title: Default Topic

@@ -1,0 +1,4 @@
+default:
+  topic: default
+  user: default
+  content: Deafult Content

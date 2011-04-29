@@ -1,0 +1,6 @@
+default:
+  username: Default User
+  email: default@test.test
+  password_hash: $2a$10$0MeSaaE3I7.0FQ5ZDcKPJeD1.FzqkcOZfEKNZ/DNN.w8xOwuFdBCm
+  password_salt: $2a$10$0MeSaaE3I7.0FQ5ZDcKPJe
+  
