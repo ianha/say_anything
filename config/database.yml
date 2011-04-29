@@ -2,7 +2,8 @@ development: &development
   database: say_anything_dev
   adapter: mysql2
   username: root
-  password: 
+  password: ''
+  socket: /tmp/mysql.sock
 
 test:
   <<: *development
